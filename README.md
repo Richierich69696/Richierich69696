@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Richierich69696
-- 👀 I’m interested in ...cybersecurity
-- 🌱 I’m currently learning ...ethical hacking and Google cybersecurity
+- cybersecurity enthusiast 
+- 👀 I’m interested in learning new skills in ...cybersecurity
+- 🌱 I’m currently graduated in cybersecurity and learning ...ethical hacking
 - 💞️ I’m looking to collaborate on ...who have same interest 
 - 📫 How to reach me ... via my email rajeshrathlavathu@gmail.com 
 
