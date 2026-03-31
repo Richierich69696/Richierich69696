@@ -1,13 +1,9 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Rajesh%20Rathlavathu&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Analyst%20%7C%20Security%20Engineer%20%7C%20GRC%20%7C%20Network%20Security&descAlignY=60&descSize=16&animation=fadeIn&stroke=CC0000&strokeWidth=3"/>
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Rajesh%20Rathlavathu&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Analyst%20%7C%20Security%20Engineer%20%7C%20GRC%20%7C%20Network%20Security&descAlignY=60&descSize=16&animation=fadeIn&stroke=CC0000&strokeWidth=3"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CC0000&height=5&width=100%25"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CC0000&height=5&width=100%25"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CC0000&height=4"/>
 
 <br/>
-
-<div align="center">
 
 [
 
@@ -26,17 +22,13 @@
 ](https://github.com/Richierich69696)
 [
 
-![Profile Views](https://komarev.com/ghpvc/?username=Richierich69696&style=for-the-badge&color=CC0000&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=Richierich69696&style=for-the-badge&color=CC0000&label=PROFILE+VIEWS)
 
 ](https://github.com/Richierich69696)
 
-</div>
-
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Cybersecurity+Analyst+%7C+3%2B+Years+Enterprise+Experience;GRC+%7C+Zero+Trust+%7C+SIEM+%7C+Penetration+Testing;NIST+CSF+%7C+ISO+27001+%7C+HIPAA+%7C+SOC2+%7C+OWASP" alt="Typing SVG"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=🔐%20Threat%20Intelligence%20·%20Zero%20Trust%20·%20SIEM%20·%20GRC%20·%20Penetration%20Testing%20·%20IAM%20·%20HIPAA%20·%20NIST%20CSF&fontSize=13&fontColor=0A66C2&animation=twinkling"/>
 
 <br/>
 
@@ -53,14 +45,12 @@ Education: PhD Management Enterprise Systems · Wayland Baptist University (Purs
 Focus    : Threat Intelligence · Zero Trust · IAM · SIEM · Penetration Testing
 Achieved : 25% Reduction in Incident Response Time | Full HIPAA Compliance
 🔧 What I Work With
-Security     →  Splunk · Palo Alto Networks · Nessus · Metasploit · Burp Suite · Wireshark · Snort
+Security     →  Splunk · Palo Alto Networks · Nessus · Metasploit · Burp Suite · Wireshark
 Network      →  Cisco NSO · Cisco ACI · Cisco ISE · Ansible · VMware NSX · GNS3
 GRC          →  NIST CSF · ISO 27001 · HIPAA · SOC2 · OWASP · PCI-DSS · Zero Trust
 Languages    →  Python · PowerShell · Bash
 Hardware     →  Flipper Zero · HackRF One · PortaPack HF · Raspberry Pi
 🚀 Projects
-�
-
 Project
 Description
 OSINT-Photo-Hunt
@@ -84,21 +74,21 @@ Automated network health monitoring tool
 Wireshark-Credential-Analysis
 Credential analysis and hunting using Wireshark
 �
-
-📊 GitHub Stats
-�
-
+￼
 �
 ￼ ￼
 
 �
 ￼
 �
+￼
+�
+￼
+�
+
 
 �
-￼ 
-
-
+￼
 �
 
 
