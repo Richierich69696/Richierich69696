@@ -1,75 +1,88 @@
-<!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Rajesh%20Rathlavathu&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Analyst%20%7C%20Security%20Engineer%20%7C%20GRC%20%7C%20Network%20Security&descAlignY=60&descSize=16&animation=fadeIn&stroke=CC0000&strokeWidth=3"/>
+�
+￼
+�
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CC0000&height=4"/>
+� � � �
+�
 
-<br/>
+�
 
-[
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+�
+￼ 
 
-](https://www.linkedin.com/in/raj-rathlavathu-4b8526268)
-[
 
-![Email](https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=gmail&logoColor=white)
+�
 
-](mailto:rajeshrathlavathu@gmail.com)
-[
 
-![GitHub](https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/Richierich69696)
-[
-
-![Views](https://komarev.com/ghpvc/?username=Richierich69696&style=for-the-badge&color=CC0000&label=PROFILE+VIEWS)
-
-](https://github.com/Richierich69696)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&text=🔐%20Threat%20Intelligence%20·%20Zero%20Trust%20·%20SIEM%20·%20GRC%20·%20Penetration%20Testing%20·%20IAM%20·%20HIPAA%20·%20NIST%20CSF&fontSize=13&fontColor=0A66C2&animation=twinkling"/>
-
-<br/>
-
----
-
-### 👨‍💻 About Me
-
-```yaml
-Name     : Rajesh Rathlavathu
-Role     : Cybersecurity Analyst | Security Engineer | GRC Analyst
-Location : Herndon, VA — Open to Remote Roles (USA)
-Education: PhD Management Enterprise Systems · Wayland Baptist University (Pursuing)
-           MS Information Systems Security Auditing · Lewis University (Completed)
-Focus    : Threat Intelligence · Zero Trust · IAM · SIEM · Penetration Testing
-Achieved : 25% Reduction in Incident Response Time | Full HIPAA Compliance
-🔧 What I Work With
-Security     →  Splunk · Palo Alto Networks · Nessus · Metasploit · Burp Suite · Wireshark
-Network      →  Cisco NSO · Cisco ACI · Cisco ISE · Ansible · VMware NSX · GNS3
-GRC          →  NIST CSF · ISO 27001 · HIPAA · SOC2 · OWASP · PCI-DSS · Zero Trust
-Languages    →  Python · PowerShell · Bash
-Hardware     →  Flipper Zero · HackRF One · PortaPack HF · Raspberry Pi
-🚀 Projects
-Project
-Description
+╔══════════════════════════════════════════════════════════════╗
+║  $ cat whoami.txt                                            ║
+╠══════════════════════════════════════════════════════════════╣
+║  Name     →  Rajesh Rathlavathu                             ║
+║  Role     →  Cybersecurity Analyst | GRC | Security Eng     ║
+║  Location →  Herndon, VA  |  Open to Remote USA             ║
+║  MS       →  Information Systems, Security Auditing ✓       ║
+║  PhD      →  Management Enterprise Systems (Pursuing 2026)  ║
+║  MTTR     →  Cut incident response time by 25%              ║
+║  Status   →  IMMEDIATELY AVAILABLE                          ║
+╚══════════════════════════════════════════════════════════════╝
+> ls skills/
+[SECURITY]   Splunk · Palo Alto · Fortinet · Nessus · Burp Suite · Wireshark · Nmap
+[GRC]        NIST CSF · ISO 27001 · HIPAA · SOC2 · OWASP · PCI-DSS · Zero Trust
+[APPSEC]     Snyk · Veracode · SAST/DAST · OWASP SAMM · STRIDE · Threat Modeling
+[IDENTITY]   Cisco ISE · IAM · Zero Trust Architecture · MFA · NAC
+[CODE]       Python · PowerShell · Bash
+> ls projects/ --active
+project_name
+description
+link
 OSINT-Photo-Hunt
-Photo-based OSINT and threat reconnaissance tool
+Photo-based threat investigation using OSINT frameworks
+→
 Cyber-Alert-Triage
-SOC alert triage and prioritization simulation
+SOC simulation for triaging and prioritizing alerts
+→
 CyberAnalyst-AI-Shadow
-AI-assisted security analyst workflow automation
+AI-assisted analyst workflow automation
+→
 AI-Driven-Vulnerability-Scout
-AI-powered vulnerability and intrusion detection
+Scans and alerts before threats dig in
+→
 AI-Boosted-Intrusion-Sniffer
-AI-enhanced network intrusion detection
-AI-Network-Spy-Spotter
-AI-driven network anomaly detection
+Real-time network intrusion detection
+→
 AI-Powered-Phishing-Detector
 ML-based phishing email and URL detection
-AI-Powered-Password-Cracker-Detector
-AI detection of brute-force and cracking attempts
+→
 Network-Health-Check
 Automated network health monitoring tool
+→
 Wireshark-Credential-Analysis
-Credential analysis and hunting using Wireshark.
+Credential hunting using Wireshark
+→
+> cat certifications.txt
+[✓] CompTIA Security+              → CompTIA           2026
+[✓] Google Cybersecurity           → Google            2023
+[✓] Palo Alto Networks Cyber       → Palo Alto         2023
+[✓] Security Operations Center     → EC-Council        2023
+[✓] Wireshark TCP/IP Analysis      → EC-Council        2023
+[✓] Vulnerability Scanning Nmap    → EC-Council        2023
+[✓] Darkweb Anonymity & Crypto     → EC-Council        2023
+[✓] Linux Fundamentals             → LearnQuest        2023
+[✓] TCP/IP Fundamentals            → Yonsei University 2023
+[✓] Data Collection Use & Privacy  → UC San Diego      2023
+[✓] System Administration          → Microsoft         2024
+[✓] Microsoft 365 Copilot          → Microsoft         2024
+> cat leadership.txt
+[★] Presidential Member  →  National Society of Leadership & Success  |  Dec 2022 – Present
+[★] Student Volunteer    →  National Service Scheme (NSS), India      |  Jul 2012 – May 2015
+╔══════════════════════════════════════════════════════════════╗
+║  $ echo "connect_with_me"                                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  LinkedIn  →  linkedin.com/in/rajesh-rathlavathu23          ║
+║  Portfolio →  Richierich69696.github.io                     ║
+║  Email     →  rajeshrathlavathu@gmail.com                   ║
+║  GitHub    →  github.com/Richierich69696                    ║
+╚══════════════════════════════════════════════════════════════╝
+�
+￼
