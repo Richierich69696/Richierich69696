@@ -72,27 +72,4 @@ AI detection of brute-force and cracking attempts
 Network-Health-Check
 Automated network health monitoring tool
 Wireshark-Credential-Analysis
-Credential analysis and hunting using Wireshark
-�
-￼
-�
-￼ ￼
-
-�
-￼
-�
-￼
-�
-￼
-�
-
-
-�
-￼
-�
-
-
-�
-￼
-�
-￼ ```
+Credential analysis and hunting using Wireshark.
