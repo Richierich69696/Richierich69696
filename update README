@@ -1,0 +1,165 @@
+╔════════════════════════════════════════════════════════════════════════╗
+║                        ▓▓ CLASSIFIED ▓▓                               ║
+║              CYBERSECURITY OPERATIONS — PERSONNEL FILE                 ║
+║                    CLEARANCE LEVEL: ANALYST                            ║
+║                   FILE NO: RR-2024-CYBER-001                          ║
+╚════════════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────┐
+│  SECTION 01 — OPERATIVE IDENTITY                                     │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  NAME        :  Rajesh Rathlavathu                                  │
+│  DESIGNATION :  Cybersecurity Analyst | GRC | Security Engineer     │
+│  CLEARANCE   :  Active — Authorized for Remote Operations USA       │
+│  STATUS      :  ██████████████████████  IMMEDIATELY AVAILABLE       │
+│                                                                      │
+│  ACADEMIC    :  PhD Management Enterprise Systems [IN PROGRESS]     │
+│                 MS Information Systems Security Auditing [COMPLETE] │
+│                                                                      │
+│  ACHIEVEMENT :  Reduced incident response time by 25%               │
+│                 Maintained full HIPAA compliance                     │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  SECTION 02 — FIELD OPERATIONS HISTORY                               │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  [OP-003]  CYBERSECURITY ANALYST  ·  UNICODE SYSTEMS Inc            │
+│            SEP 2024 — PRESENT  ·  STATUS: ACTIVE                    │
+│            > Built IR Plan cutting response time by 25%             │
+│            > Full HIPAA compliance achieved and maintained          │
+│            > Threat hunting via Palo Alto + Fortinet                │
+│            > MSSP collaboration for real-time detection             │
+│            > Security reports aligned to NIST CSF                  │
+│                                                                      │
+│  [OP-002]  PROGRAMMING ANALYST  ·  Dizer Corp                       │
+│            JAN 2024 — SEP 2024  ·  STATUS: COMPLETE                 │
+│            > SAST/DAST scans flagged 15+ vulnerabilities           │
+│            > OWASP SAMM + STRIDE threat modeling applied           │
+│            > Burp Suite web app testing + code reviews             │
+│                                                                      │
+│  [OP-001]  CYBERSECURITY ENGINEER  ·  Eficens Systems               │
+│            MAY 2022 — JAN 2023  ·  STATUS: COMPLETE                 │
+│            > 8+ network anomalies identified and escalated         │
+│            > Cisco ISE identity access control deployed            │
+│            > Splunk dashboards built for real-time visibility      │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  SECTION 03 — WEAPONS ARSENAL                                        │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  SECURITY   ·  Splunk · Palo Alto · Fortinet · Nessus               │
+│             ·  Burp Suite · Wireshark · Nmap                        │
+│                                                                      │
+│  GRC        ·  NIST CSF · HIPAA · ISO 27001 · SOC2                 │
+│             ·  OWASP · PCI-DSS · Zero Trust · COBIT                │
+│                                                                      │
+│  APPSEC     ·  Snyk · Veracode · SAST/DAST                         │
+│             ·  OWASP SAMM · STRIDE · Threat Modeling               │
+│                                                                      │
+│  IDENTITY   ·  Cisco ISE · IAM · Zero Trust · MFA · NAC            │
+│                                                                      │
+│  CODE       ·  Python · PowerShell · Bash                          │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  SECTION 04 — ACTIVE MISSIONS                                        │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  [M-001]  CYBER-ALERT-TRIAGE                                        │
+│           SOC alert triage simulation — separating real threats     │
+│           from noise. The skill that separates good from great.     │
+│           ░░░░░░░░░░░░░░░░░░░░  STATUS: DEPLOYED                   │
+│                                                                      │
+│  [M-002]  OSINT-PHOTO-HUNT                                          │
+│           What a photograph quietly tells you without the owner     │
+│           knowing. Metadata, GPS, device fingerprints.              │
+│           ░░░░░░░░░░░░░░░░░░░░  STATUS: DEPLOYED                   │
+│                                                                      │
+│  [M-003]  AI-DRIVEN-VULNERABILITY-SCOUT                             │
+│           Nmap gives you ports. This tells you which ones to        │
+│           lose sleep over. Random Forest classification engine.     │
+│           ░░░░░░░░░░░░░░░░░░░░  STATUS: DEPLOYED                   │
+│                                                                      │
+│  [M-004]  CYBERANALYST-AI-SHADOW                                    │
+│           Trained on analyst decisions. Handles repetitive          │
+│           triage automatically. Your AI analyst twin.               │
+│           ░░░░░░░░░░░░░░░░░░░░  STATUS: DEPLOYED                   │
+│                                                                      │
+│  [M-005]  AI-POWERED-PHISHING-DETECTOR                              │
+│           Attackers have predictable vocabularies. Naive Bayes      │
+│           catches those patterns automatically.                     │
+│           ░░░░░░░░░░░░░░░░░░░░  STATUS: DEPLOYED                   │
+│                                                                      │
+│  [M-006]  AI-BOOSTED-INTRUSION-SNIFFER                              │
+│           Isolation Forest on packet captures. Catches the slow     │
+│           quiet reconnaissance signature tools never see.           │
+│           ░░░░░░░░░░░░░░░░░░░░  STATUS: DEPLOYED                   │
+│                                                                      │
+│  [M-007]  AI-POWERED-PASSWORD-CRACKER-DETECTOR                      │
+│           Brute force attacks have a distinctive rhythm.            │
+│           This detects that rhythm before it succeeds.              │
+│           ░░░░░░░░░░░░░░░░░░░░  STATUS: DEPLOYED                   │
+│                                                                      │
+│  [M-008]  AI-NETWORK-SPY-SPOTTER                                    │
+│           Live packet monitoring with behavioral thresholds.        │
+│           For catching what does not belong before it damages.      │
+│           ░░░░░░░░░░░░░░░░░░░░  STATUS: DEPLOYED                   │
+│                                                                      │
+│  [M-009]  NETWORK-HEALTH-CHECK                                      │
+│           Most orgs have no idea what runs on their network         │
+│           until something goes wrong. This changes that.            │
+│           ░░░░░░░░░░░░░░░░░░░░  STATUS: DEPLOYED                   │
+│                                                                      │
+│  [M-010]  WIRESHARK-CREDENTIAL-ANALYSIS                             │
+│           Why plaintext protocols are indefensible. Sometimes       │
+│           showing is more convincing than telling.                  │
+│           ░░░░░░░░░░░░░░░░░░░░  STATUS: DEPLOYED                   │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  SECTION 05 — CERTIFICATIONS & CLEARANCES                           │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  [✓]  CompTIA Security+              CompTIA            2026        │
+│  [✓]  Google Cybersecurity           Google             2023        │
+│  [✓]  Palo Alto Networks Cyber       Palo Alto          2023        │
+│  [✓]  Security Operations Center     EC-Council         2023        │
+│  [✓]  Wireshark TCP/IP Analysis      EC-Council         2023        │
+│  [✓]  Vulnerability Scanning Nmap    EC-Council         2023        │
+│  [✓]  Darkweb Anonymity & Crypto     EC-Council         2023        │
+│  [✓]  Linux Fundamentals             LearnQuest         2023        │
+│  [✓]  TCP/IP Fundamentals            Yonsei University  2023        │
+│  [✓]  Data Collection Use & Privacy  UC San Diego       2023        │
+│  [✓]  System Administration          Microsoft          2024        │
+│  [✓]  Microsoft 365 Copilot          Microsoft          2024        │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  SECTION 06 — SERVICE RECORD                                         │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      
+│  [★]  Presidential Member                                           │
+│       National Society of Leadership & Success (NSLS)               │
+│       Dec 2022 — Present  ·  STATUS: ACTIVE                        │
+│                                                                      │
+│  [★]  Student Volunteer                                             │
+│       National Service Scheme (NSS), India                          │
+│       Jul 2012 — May 2015  ·  STATUS: COMPLETE                     │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  SECTION 07 — ESTABLISH CONTACT                                      │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  $ echo connect_with_me                                             │
+│                                                                      │
+│  LinkedIn  →  linkedin.com/in/rajesh-rathlavathu23                 │
+│  Portfolio →  rajeshrathlavathu.com                                │
+│  Email     →  rajeshrathlavathu@gmail.com                          │
+│  GitHub    →  github.com/Richierich69696                           │
+│                                                                      │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  END OF FILE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                  │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
