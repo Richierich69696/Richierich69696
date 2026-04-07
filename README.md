@@ -74,8 +74,8 @@ Presidential Member of the National Society of Leadership and Success. Because k
 
 $ echo connect_with_me
 ╔═════════════════════════════════════╗
-║  LinkedIn  →  linkedin.com/in/rajesh-rathlavathu23  ║
-║  Portfolio →  Richierich69696.github.io              ║
-║  Email     →  rajeshrathlavathu@gmail.com            ║
-║  GitHub    →  github.com/Richierich69696              ║
+║  LinkedIn  →  linkedin.com/in/rajesh-rathlavathu23 
+║  Portfolio →  www.Rajeshrathlavathu.com             
+║  Email     →  rajeshrathlavathu@gmail.com           
+║  GitHub    →  github.com/Richierich69696
 ╚═════════════════════════════════════╝
